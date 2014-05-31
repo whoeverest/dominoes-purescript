@@ -1,0 +1,25 @@
+{
+  "name": "dominoes-purescript",
+  "version": "0.0.0",
+  "description": "dominoes in purescript",
+  "main": "server.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/whoeverest/dominoes-purescript.git"
+  },
+  "keywords": [
+    "dominoes",
+    "purescript"
+  ],
+  "author": "Andrej T.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whoeverest/dominoes-purescript/issues"
+  }
+}
