@@ -1,5 +1,6 @@
 module Main where
 
+import Controllers
 import Debug.Trace
 
-main = trace "Hello Dominoes Worlds"
+main = trace "Hey"
